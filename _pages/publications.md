@@ -1,9 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
+<!-- <br>
 <b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
 <b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
 <i>ArXiv 2020</i>.
@@ -62,7 +63,7 @@ Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng
 
 <b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
+<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>. -->
 
 
 
