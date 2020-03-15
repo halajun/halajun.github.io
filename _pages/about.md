@@ -18,7 +18,7 @@ redirect_from:
 * I received my B.E. and M.E. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years at the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
 
 # Recent News
-
+* Start looking for a post-doc position.
 
 # Academic Services
 * Volunteer reviewer for robotics academic conferences: IROS, ICRA.
