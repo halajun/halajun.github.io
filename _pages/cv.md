@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://halajun.github.io/files/junzhang_cv.pdf)
 
-<!-- <embed src="http://halajun.com/files/junzhang_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://halajun.github.io/files/junzhang_cv.pdf" width="650" height="1800" type='application/pdf'> -->
