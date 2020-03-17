@@ -1,6 +1,6 @@
 ---
 title: "Robust Visual Odometry in Underwater Environment"
-author: "<u>Jun Zhang</u>, Viorela Ila, Laurent Kneip"
+author: "<b>Jun Zhang</b>, Viorela Ila, Laurent Kneip"
 collection: publications
 permalink: /oceans18zhang
 excerpt: 
@@ -9,7 +9,7 @@ venue: "OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018"
 paperurl: 
 citation:
 header:
-   teaser: oceans18.png
+   teaser: oceans18_tn.png
 ---
 
 <a href="http://halajun.github.io/files/ocean18zhang.pdf" target="_blank"><b>PDF</b></a>&emsp;
