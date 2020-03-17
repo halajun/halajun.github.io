@@ -17,9 +17,9 @@ redirect_from:
 * Start looking for a post-doc position.
 
 # Publications
-<b>[Robust Visual Odometry in Underwater Environment](http://halajun.github.io/files/ocean18zhang.pdf)</b> <br> 
-<b>Jun Zhang</b>, Viorela Ila, Laurent Kneip. <br>
-<i>OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018</i>.
+* <b>[Robust Visual Odometry in Underwater Environment](http://halajun.github.io/files/ocean18zhang.pdf)</b> <br> 
+<b>Jun Zhang</b>, Viorela Ila, Laurent Kneip. 
+<i>OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018</i>. 
 
 # Academic Services
 * Volunteer reviewer for robotics academic conferences: IROS, ICRA.
