@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p> -->
+<p align="left">
+  <img src="https://lantaoyu.github.io/files/cat.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 # About Me
 * I am a Ph.D. candidate in the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). [[My Curriculum Vitae]()] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
