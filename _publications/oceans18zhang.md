@@ -9,7 +9,7 @@ venue: "OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018"
 paperurl: 
 citation:
 header:
-   teaser: oceans18_tn.png
+   teaser: oceans18_tn.jpg
 ---
 
 <a href="http://halajun.github.io/files/ocean18zhang.pdf" target="_blank"><b>PDF</b></a>&emsp;
