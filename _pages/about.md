@@ -40,6 +40,17 @@ Zouhui Lian, <b>Jun Zhang</b> and et al.
 <b>Jun Zhang</b>, Zouhui Lian, Zhenbao Liu, Jianguo Xiao. 
 <i>Proceedings of the 10th International Conference on Computer Graphics Theory and Applications</i>. <b>GRAPP 2015</b>.
 
+Skills
+======
+* Programming: C++; Matlab; Python;
+* Languages: Mandarin; English;
+
+Honors & Awards
+======
+* Award of PhD Scholarship and University Research Scholarship, ANU, 2016-2020
+* Award of the Second Prize of the National Scholarship, NWPU, 2012-2014
+* Award of the Third Prize of the Mathematical Contest in Modeling, NWPU, 2009
+
 # Academic Services
 * Volunteer reviewer for robotics academic conferences: IROS, ICRA.
 
