@@ -43,5 +43,8 @@ Zouhui Lian, <b>Jun Zhang</b> and et al.
 # Academic Services
 * Volunteer reviewer for robotics academic conferences: IROS, ICRA.
 
+# Colorful Life
+* When I’m not doing research I enjoy playing soccer and photography.
+
 
 
