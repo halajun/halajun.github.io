@@ -44,7 +44,7 @@ Zouhui Lian, <b>Jun Zhang</b> and et al.
 * Volunteer reviewer for robotics academic conferences: IROS, ICRA.
 
 # Colorful Life
-* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. Besides, I am always willing to try new things.
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography, and am always interested in trying new things.
 
 
 
