@@ -21,6 +21,12 @@ redirect_from:
 
 # Publications
 
+* <b>[Speed SLAM: A Robust Object-aware Dynamic SLAM System]</b> <br> 
+<b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
+<i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.
+* <b>[Robust Ego and Object 6-DoF Motion Estimation and Tracking]</b> <br> 
+<b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
+<i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020 (Under Review)</b>.
 * <b>[Dynamic SLAM: The Need For Speed](http://halajun.github.io/files/icra20henein.pdf)</b> <br> 
 Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila. 
 <i>The International Conference on Robotics and Automation</i>. <b>ICRA 2020</b>.
@@ -39,6 +45,8 @@ Zouhui Lian, <b>Jun Zhang</b> and et al.
 * <b>[CEFM: A Heuristic Mesh Segmentation Method based on Convexity Estimation and Fast Marching](http://halajun.github.io/files/grapp15zhang.pdf)</b> <br> 
 <b>Jun Zhang</b>, Zouhui Lian, Zhenbao Liu, Jianguo Xiao. 
 <i>Proceedings of the 10th International Conference on Computer Graphics Theory and Applications</i>. <b>GRAPP 2015</b>.
+
+[\* denotes equal contribution]
 
 Skills
 ======
