@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://halajun.github.io/images/bg.JPG?raw=false" alt="Photo" style="width: 4243px;"/> 
+  <img src="https://halajun.github.io/images/bg.jpg?raw=false" alt="Photo" style="width: 6000px;"/> 
 </p>
 
 # About Me
