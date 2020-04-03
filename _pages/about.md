@@ -55,6 +55,7 @@ Zouhui Lian, <b>Jun Zhang</b> and et al.
 Skills
 ======
 * Programming: C++; Matlab; Python;
+* Softwares: MeshLab; 3DMax; Geomagic;
 * Languages: Mandarin; English;
 
 Honors & Awards
