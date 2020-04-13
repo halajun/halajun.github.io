@@ -21,7 +21,7 @@ redirect_from:
 
 # Recent News
 
-* START LOOKING FOR A POST-DOC POSITION......
+* Start looking for a Post-doctoral position...
 
 # Publications
 
