@@ -73,7 +73,7 @@ Honors & Awards
 * Reviewer for robotics academic conferences: IROS, ICRA.
 
 # Colorful Life
-* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography, and am always interested in trying new things.
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. In particular, I am always interested in trying new things.
 
 
 
