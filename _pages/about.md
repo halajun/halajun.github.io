@@ -47,12 +47,12 @@ Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila.
 
 * <b>[SHREC’15 Track: Non-rigid 3D Shape Retrieval](http://halajun.github.io/files/3dor15lian.pdf)</b> <br> 
 Zouhui Lian, <b>Jun Zhang</b> and et al. 
-<i>Eurographics Workshop on 3D Object Retrieval</i>. <b>3DOR 2015</b>.
+<i>Eurographics Workshop on 3D Object Retrieval</i>. <b>3DOR 2015</b>.&emsp;
 <a href="https://halajun.github.io/files/lian15nonrigid.txt" target="_blank"><b>BibTex</b></a>&emsp;
 <a href="http://www.icst.pku.edu.cn/zlian/representa/3d15/index.htm" target="_blank"><b>Dataset</b></a>
 * <b>[CEFM: A Heuristic Mesh Segmentation Method based on Convexity Estimation and Fast Marching](http://halajun.github.io/files/grapp15zhang.pdf)</b> <br> 
 <b>Jun Zhang</b>, Zouhui Lian, Zhenbao Liu, Jianguo Xiao. 
-<i>Proceedings of the 10th International Conference on Computer Graphics Theory and Applications</i>. <b>GRAPP 2015</b>.
+<i>Proceedings of the 10th International Conference on Computer Graphics Theory and Applications</i>. <b>GRAPP 2015</b>.&emsp;
 <a href="https://halajun.github.io/files/zhang15grapp.txt" target="_blank"><b>BibTex</b></a>
 
 [\* denotes equal contribution]
