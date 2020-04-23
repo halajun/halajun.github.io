@@ -1,4 +1,4 @@
-@inproceedings{zhang2018robust,
+@inproceedings{zhang2018oceans,
   title={Robust visual odometry in underwater environment},
   author={Zhang, Jun and Ila, Viorela and Kneip, Laurent},
   booktitle={2018 OCEANS-MTS/IEEE Kobe Techno-Oceans (OTO)},

@@ -37,9 +37,11 @@ Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila.
 * <b>[Multi-frame Motion Segmentation for Dynamic Scene Modelling](http://halajun.github.io/files/acra18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b> and Viorela Ila. 
 <i>The 20th Australasian Conference on Robotics and Automation</i>. <b>ACRA 2018</b>.
+<a href="https://halajun.github.io/files/zhang18acra.txt" target="_blank"><b>BibTex</b></a>
 * <b>[Robust Visual Odometry in Underwater Environment](http://halajun.github.io/files/ocean18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b>, Viorela Ila, Laurent Kneip. 
 <i>OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018</i>. <b>OCEANS 2018</b>.
+<a href="https://halajun.github.io/files/zhang18oceans.txt" target="_blank"><b>BibTex</b></a>
 
 # Previous Works
 

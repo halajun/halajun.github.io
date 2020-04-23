@@ -1,0 +1,7 @@
+@inproceedings{zhang18acra,
+  title={Multi-frame Motion Segmentation for Dynamic Scene Modeling},
+  author={Zhang, Jun and Ila, Viorela},
+  booktitle={The 20th Australasian Conference on Robotics and Automation (ACRA) 2018},
+  year={2018},
+  organization={Australian Robotics & Automation Association}
+}
