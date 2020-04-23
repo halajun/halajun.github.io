@@ -1,0 +1,9 @@
+@inproceedings {lian15nonrigid,
+booktitle = {Eurographics Workshop on 3D Object Retrieval},
+editor = {I. Pratikakis and M. Spagnuolo and T. Theoharis and L. Van Gool and R. Veltkamp},
+title = {{Non-rigid 3D Shape Retrieval}},
+author = {Lian, Z. and Zhang, J. and Choi, S. and ElNaghy, H. and El-Sana, J. and Furuya, T. and Giachetti, A. and Guler, R. A. and Lai, L. and Li, C. and Li, H. and Limberger, F. A. and Martin, R. and Nakanishi, R. U. and Neto, A. P. and Nonato, L. G. and Ohbuchi, R. and Pevzner, K. and Pickup, D. and Rosin, P. and Sharf, A. and Sun, L. and Sun, X. and Tari, S. and Unal, G. and Wilson, R. C.},
+year = {2015},
+publisher = {The Eurographics Association},
+DOI = {10.2312/3dor.20151064}
+}

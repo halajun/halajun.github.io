@@ -1,0 +1,8 @@
+@inproceedings{zhang2015grapp,
+  title={CEFM: A Heuristic Mesh Segmentation Method based on Convexity Estimation and Fast Marching},
+  author={Zhang, Jun and Lian, Zhouhui and Liu, Zhenbao and Xiao, Jianguo},
+  booktitle={Proceedings of the 10th International Conference on Computer Graphics Theory and Applications},
+  pages={114--121},
+  year={2015},
+  organization={SCITEPRESS-Science and Technology Publications, Lda}
+}
