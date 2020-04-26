@@ -25,9 +25,9 @@ redirect_from:
 
 # Publications
 
-* <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
+<!-- * <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
 <b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
-<i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.
+<i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>. -->
 * <b>Robust Ego and Object 6-DoF Motion Estimation and Tracking</b> <br> 
 <b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020 (Under Review)</b>.
