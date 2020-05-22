@@ -18,6 +18,7 @@ redirect_from:
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
 * My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc.
 * I received my B.Eng. and M.Sc. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things.
 
 # Recent News
 
@@ -72,8 +73,8 @@ Honors & Awards
 # Academic Services
 * Reviewer for robotics academic conferences: IROS, ICRA.
 
-# Colorful Life
-* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things.
+<!-- # Colorful Life
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things. -->
 
 
 
