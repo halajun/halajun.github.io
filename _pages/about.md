@@ -22,7 +22,7 @@ redirect_from:
 
 # Recent News
 
-* Start looking for a Post-doctoral position...
+* Start looking for a Post-doctoral position.
 
 # Publications
 
