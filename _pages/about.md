@@ -42,23 +42,23 @@ Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila.
 * <b>[Multi-frame Motion Segmentation for Dynamic Scene Modelling](http://halajun.github.io/files/acra18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b> and Viorela Ila. 
 <i>The 20th Australasian Conference on Robotics and Automation</i>. <b>ACRA 2018</b>.&emsp;
-<a href="https://halajun.github.io/files/zhang18acra.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://halajun.github.io/files/zhang18acra.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>[Robust Visual Odometry in Underwater Environment](http://halajun.github.io/files/ocean18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b>, Viorela Ila, Laurent Kneip. 
 <i>OCEANS'18 MTS/IEEE Kobe / Techno-Ocean 2018</i>. <b>OCEANS 2018</b>.&emsp;
-<a href="https://halajun.github.io/files/zhang18oceans.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://halajun.github.io/files/zhang18oceans.txt" target="_blank"><b>[BibTex]</b></a>
 
 # Previous Works
 
 * <b>[SHREC’15 Track: Non-rigid 3D Shape Retrieval](http://halajun.github.io/files/3dor15lian.pdf)</b> <br> 
 Zouhui Lian, <b>Jun Zhang</b> and et al. 
 <i>Eurographics Workshop on 3D Object Retrieval</i>. <b>3DOR 2015</b>.&emsp;
-<a href="https://halajun.github.io/files/lian15nonrigid.txt" target="_blank"><b>BibTex</b></a>&emsp;
-<a href="http://www.icst.pku.edu.cn/zlian/representa/3d15/index.htm" target="_blank"><b>Dataset</b></a>
+<a href="http://www.icst.pku.edu.cn/zlian/representa/3d15/index.htm" target="_blank"><b>[Dataset]</b></a>
+<a href="https://halajun.github.io/files/lian15nonrigid.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>[CEFM: A Heuristic Mesh Segmentation Method based on Convexity Estimation and Fast Marching](http://halajun.github.io/files/grapp15zhang.pdf)</b> <br> 
 <b>Jun Zhang</b>, Zouhui Lian, Zhenbao Liu, Jianguo Xiao. 
 <i>Proceedings of the 10th International Conference on Computer Graphics Theory and Applications</i>. <b>GRAPP 2015</b>.&emsp;
-<a href="https://halajun.github.io/files/zhang15grapp.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://halajun.github.io/files/zhang15grapp.txt" target="_blank"><b>[BibTex]</b></a>
 
 [\* denotes equal contribution]
 
