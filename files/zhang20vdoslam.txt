@@ -1,0 +1,8 @@
+@article{zhang2020vdoslam,
+  title={{VDO-SLAM: A Visual Dynamic Object-aware SLAM System}},
+  author={Zhang, Jun and Henein, Mina and Mahony, Robert and Ila, Viorela},
+  year={2020},
+  eprint={2005.11052},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
+ }
