@@ -26,9 +26,10 @@ redirect_from:
 
 # Publications
 
-* <b>[VDO-SLAM: A Visual Dynamic Object-aware SLAM System](http://halajun.github.io/files/vdoslam20zhang.pdf)</b> <br> 
+* <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
 <b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
 <i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.&emsp;
+<a href="https://arxiv.org/abs/2005.11052" target="_blank"><b>ArXiv</b></a>&emsp;
 <a href="https://github.com/halajun/VDO_SLAM" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://drive.google.com/file/d/1PbL4KiJ3sUhxyJSQPZmRP6mgi9dIC0iu/view" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://halajun.github.io/files/zhang20vdoslam.txt" target="_blank"><b>BibTex</b></a>
