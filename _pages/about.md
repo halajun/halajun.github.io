@@ -22,7 +22,8 @@ redirect_from:
 
 # Recent News
 
-* Start looking for a Post-doctoral position.
+* I have one paper accepted in IROS 2020! (01 Jul 2020)
+* My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me. (Jul 2020)
 
 # Publications
 
@@ -35,7 +36,7 @@ redirect_from:
 <a href="https://halajun.github.io/files/zhang20vdoslam.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>Robust Ego and Object 6-DoF Motion Estimation and Tracking</b> <br> 
 <b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
-<i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020 (Under Review)</b>.
+<i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020 (Accepted)</b>.
 * <b>[Dynamic SLAM: The Need For Speed](http://halajun.github.io/files/icra20henein.pdf)</b> <br> 
 Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila. 
 <i>The International Conference on Robotics and Automation</i>. <b>ICRA 2020</b>.
