@@ -22,8 +22,8 @@ redirect_from:
 
 # Recent News
 
-* I have one paper accepted in IROS 2020! (01 Jul 2020)
-* My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me. (Jul 2020)
+* I have one paper accepted in IROS 2020! (01 July 2020)
+* My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me. (July 2020)
 
 # Publications
 
@@ -71,9 +71,10 @@ Skills
 
 Honors & Awards
 ======
+* Award of ACRV HDR Scholarship Top-up, ANU, ACRV, 2019-2020
 * Award of PhD Scholarship and University Research Scholarship, ANU, 2016-2020
 * Award of the Second Prize of the National Scholarship, NWPU, 2012-2014
-* Award of the Third Prize of the Mathematical Contest in Modeling, NWPU, 2009
+* Award of the Third Prize of the Mathematical Contest in Modelling, NWPU, 2009
 
 # Academic Services
 * Reviewer for robotics academic conferences: IROS, ICRA.
