@@ -23,7 +23,7 @@ redirect_from:
 # Recent News
 
 * I have one paper accepted in IROS 2020! (01 July 2020)
-* My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me. (July 2020)
+* <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
 
 # Publications
 
