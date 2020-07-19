@@ -1,0 +1,8 @@
+@article{zhang2020iros,
+  title={{Robust Ego and Object 6-DoF Motion Estimation and Tracking}},
+  author={Zhang, Jun and Henein, Mina and Mahony, Robert and Ila, Viorela},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={},
+  year={2020},
+  organization={IEEE}
+ }

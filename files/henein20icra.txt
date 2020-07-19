@@ -1,0 +1,8 @@
+@article{henein2020icra,
+  title={{Dynamic SLAM: The Need for Speed}},
+  author={Henein, Mina and Zhang, Jun and Mahony, Robert and Ila, Viorela},
+  booktitle={2020 IEEE international conference on robotics and automation (ICRA)},
+  pages={},
+  year={2020},
+  organization={IEEE}
+ }
