@@ -38,6 +38,8 @@ redirect_from:
 <b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020</b>.
 <a href="https://arxiv.org/abs/2007.13993" target="_blank"><b>[ArXiv]</b></a>
+<a href="https://github.com/halajun/multimot_track" target="_blank"><b>[Code]</b></a>
+<a href="https://halajun.github.io/files/zhang20iros.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>[Dynamic SLAM: The Need For Speed](http://halajun.github.io/files/icra20henein.pdf)</b> <br> 
 Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila. 
 <i>The International Conference on Robotics and Automation</i>. <b>ICRA 2020</b>.
