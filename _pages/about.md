@@ -30,7 +30,7 @@ redirect_from:
 
 * <b>Equivariant Visual Odometry in the Wild</b> <br> 
 Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yonhon Ng. 
-<i>The IEEE Conference on Decision and Control (CDC)</i>. <b>CDC Tutorial 2020</b>.
+<i>The IEEE Conference on Decision and Control (CDC)</i>. <b>CDC Tutorial 2020 (to appear)</b>.
 * <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
 <b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
 <i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.
@@ -47,7 +47,7 @@ Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yon
 * <b>Dynamic SLAM: The Need For Speed</b> <br> 
 Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila. 
 <i>The International Conference on Robotics and Automation</i>. <b>ICRA 2020</b>.
-<a href="https://arxiv.org/abs/2002.08584" target="_blank"><b>[ArXiv/PDF]</b></a>
+<a href="https://arxiv.org/abs/2002.08584" target="_blank"><b>[ArXiv]</b></a>
 <a href="https://halajun.github.io/files/henein20icra.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>[Multi-frame Motion Segmentation for Dynamic Scene Modelling](http://halajun.github.io/files/acra18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b> and Viorela Ila. 
