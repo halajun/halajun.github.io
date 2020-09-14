@@ -16,17 +16,21 @@ redirect_from:
 
 * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
-* I received my B.Eng. and M.Sc. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
+* I received my B.Eng. and M.Eng. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
 * My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc.
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
 
 # Recent News
 
+* We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
 * I have one paper accepted in IROS 2020! (01 July 2020)
 * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
 
 # Publications
 
+* <b>Equivariant Visual Odometry in the Wild</b> <br> 
+Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yonhon Ng. 
+<i>The IEEE Conference on Decision and Control (CDC)</i>. <b>CDC Tutorial 2020</b>.
 * <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
 <b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
 <i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.
@@ -40,9 +44,11 @@ redirect_from:
 <a href="https://arxiv.org/abs/2007.13993" target="_blank"><b>[ArXiv]</b></a>
 <a href="https://github.com/halajun/multimot_track" target="_blank"><b>[Code]</b></a>
 <a href="https://halajun.github.io/files/zhang20iros.txt" target="_blank"><b>[BibTex]</b></a>
-* <b>[Dynamic SLAM: The Need For Speed](http://halajun.github.io/files/icra20henein.pdf)</b> <br> 
+* <b>Dynamic SLAM: The Need For Speed</b> <br> 
 Mina Henein, <b>Jun Zhang</b>, Robert Mahony and Viorela Ila. 
 <i>The International Conference on Robotics and Automation</i>. <b>ICRA 2020</b>.
+<a href="https://arxiv.org/abs/2002.08584" target="_blank"><b>[ArXiv/PDF]</b></a>
+<a href="https://halajun.github.io/files/henein20icra.txt" target="_blank"><b>[BibTex]</b></a>
 * <b>[Multi-frame Motion Segmentation for Dynamic Scene Modelling](http://halajun.github.io/files/acra18zhang.pdf)</b> <br> 
 <b>Jun Zhang</b> and Viorela Ila. 
 <i>The 20th Australasian Conference on Robotics and Automation</i>. <b>ACRA 2018</b>.
@@ -80,7 +86,7 @@ Honors & Awards
 * Award of the Third Prize of the Mathematical Contest in Modelling, NWPU, 2009
 
 # Academic Services
-* Reviewer for robotics academic conferences: IROS, ICRA.
+* Reviewer for robotics academic conferences: IROS, ICRA, TASE.
 
 <!-- # Colorful Life
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things. -->
