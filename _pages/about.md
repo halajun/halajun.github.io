@@ -86,7 +86,7 @@ Honors & Awards
 * Award of the Third Prize of the Mathematical Contest in Modelling, NWPU, 2009
 
 # Academic Services
-* Reviewer for robotics academic conferences: IROS, ICRA, TASE.
+* Reviewer for robotics academic conferences and journals: IROS, ICRA, TASE.
 
 <!-- # Colorful Life
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things. -->
