@@ -31,7 +31,6 @@ redirect_from:
 * <b>Equivariant Visual Odometry in the Wild</b> <br> 
 Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yonhon Ng. 
 <i>The IEEE Conference on Decision and Control (CDC)</i>. <b>CDC Tutorial 2020 (to appear)</b>.
-<td> <img src="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" alt="VDO-SLAM" width="340" height="260" border="10" /></a> </td>
 * <b>VDO-SLAM: A Visual Dynamic Object-aware SLAM System</b> <br> 
 <b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila. 
 <i>The International Journal of Robotics Research</i>. <b>IJRR (Under Review)</b>.
