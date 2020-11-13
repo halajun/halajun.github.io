@@ -17,7 +17,7 @@ header:
 <a href="http://www.icst.pku.edu.cn/zlian/representa/3d15/index.htm" target="_blank"><b>[Dataset]</b></a>&emsp;
 <a href="https://halajun.github.io/files/lian15nonrigid.txt" target="_blank"><b>[BibTex]</b></a>
 
-![Kernel_pic](/images/banners/shrec15_tn.jpg){:class="img-responsive"}
+![Kernel_pic](/images/banners/shrec15.png){:class="img-responsive"}
 
 <b>Abstract.</b> Non-rigid 3D shape retrieval has become a research hotpot in communities of computer graphics, computer vision, pattern recognition, etc. In this paper, we present the results of the SHREC'15 Track: Non-rigid 3D Shape Retrieval. The aim of this track is to provide a fair and effective platform to evaluate and compare the performance of current non-rigid 3D shape retrieval methods developed by different research groups around the world. The database utilized in this track consists of 1200 3D watertight triangle meshes which are equally classified into 50 categories. All models in the same category are generated from an original 3D mesh by implementing various pose transformations. The retrieval performance of a method is evaluated using 6 commonly-used measures (i.e., PR-plot, NN, FT, ST, E-measure and DCG.). Totally, there are 37 submissions and 11 groups taking part in this track. Evaluation results and comparison analyses described in this paper not only show the bright future in researches of non-rigid 3D shape retrieval but also point out several promising research directions in this topic.
 
