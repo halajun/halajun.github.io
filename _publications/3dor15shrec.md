@@ -10,7 +10,7 @@ paperurl: http://dx.doi.org/10.2312/3dor.20151064
 citation: 
 youtubeId: 
 header:
-   teaser: shrec15_tn.png
+   teaser: shrec15_tn.jpg
 ---
 
 <a href="http://halajun.github.io/files/3dor15lian.pdf" target="_blank"><b>[PDF]</b></a>&emsp;
