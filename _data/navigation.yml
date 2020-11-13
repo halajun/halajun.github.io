@@ -1,10 +1,10 @@
 # main links links
 main:
-  # - title: "CV/Bio"
-  #   url: /files/junzhang_cv.pdf
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "CV/Bio"
+    url: /files/junzhang_cv.pdf
 
   # - title: "Awards & Honors"
   #   url: /awards/
