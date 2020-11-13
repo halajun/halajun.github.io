@@ -38,7 +38,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper" id="abcnet"><img class="paper" src="papers/cvpr2020_abc.png" title="ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network" />
+<div class="paper" id="abcnet"><img class="paper" src="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" title="ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network" />
 <div> <strong>ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network</strong><br />
 Y. Liu, H. Chen, C. Shen, <strong>T. He</strong>, L. Jin, L. Wang<br />
 CVPR 2020
