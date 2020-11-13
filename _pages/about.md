@@ -27,6 +27,16 @@ redirect_from:
 * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
 
 # Publications
+{% include module.html %}
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
 
 * <b>Equivariant Visual Odometry in the Wild</b> <br> 
 Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yonhon Ng. 
@@ -38,7 +48,6 @@ Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yon
 <a href="https://github.com/halajun/VDO_SLAM" target="_blank"><b>[Code]</b></a>
 <a href="https://drive.google.com/file/d/1PbL4KiJ3sUhxyJSQPZmRP6mgi9dIC0iu/view" target="_blank"><b>[Video]</b></a>
 <a href="https://halajun.github.io/files/zhang20vdoslam.txt" target="_blank"><b>[BibTex]</b></a>
-{% include module.html image_path="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 * <b>Robust Ego and Object 6-DoF Motion Estimation and Tracking</b> <br> 
 <b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020</b>.
