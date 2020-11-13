@@ -27,7 +27,7 @@ redirect_from:
 * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
 
 # Publications
-{% include module.html %}
+
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" alt="">
@@ -36,6 +36,16 @@ redirect_from:
     <h2>Some title text</h2>
     <p>Some more text that will appear to the left of the image.</p>
   </div>
+</div>
+
+<div class="paper" id="abcnet"><img class="paper" src="papers/cvpr2020_abc.png" title="ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network" />
+<div> <strong>ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network</strong><br />
+Y. Liu, H. Chen, C. Shen, <strong>T. He</strong>, L. Jin, L. Wang<br />
+CVPR 2020
+<a href='https://arxiv.org/pdf/2002.10200.pdf'>[PDF]</a>
+<a href='https://github.com/aim-uofa/AdelaiDet'>[Code]</a>
+</div>
+<div class="spanner"></div>
 </div>
 
 * <b>Equivariant Visual Odometry in the Wild</b> <br> 
