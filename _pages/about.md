@@ -38,7 +38,7 @@ Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yon
 <a href="https://github.com/halajun/VDO_SLAM" target="_blank"><b>[Code]</b></a>
 <a href="https://drive.google.com/file/d/1PbL4KiJ3sUhxyJSQPZmRP6mgi9dIC0iu/view" target="_blank"><b>[Video]</b></a>
 <a href="https://halajun.github.io/files/zhang20vdoslam.txt" target="_blank"><b>[BibTex]</b></a>
-<img style="float: right;" src="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg?raw=false" alt="Photo" style="width: 340px;"/> 
+{% include module.html image_path="https://github.com/halajun/halajun.github.io/blob/master/images/VDO-SLAM_results_1.jpg" title="Some title text" description="Some more text that will appear to the left of the image." %}
 * <b>Robust Ego and Object 6-DoF Motion Estimation and Tracking</b> <br> 
 <b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila. 
 <i>The IEEE/RSJ International Conference on Intelligent Robots and Systems</i>. <b>IROS 2020</b>.
