@@ -1,6 +1,6 @@
 ---
 title: "SHREC’15 Track: Non-rigid 3D Shape Retrieval"
-author: "Zouhui Lian, <b>Jun Zhang</b> and et al."
+author: "Zouhui Lian, <u>Jun Zhang</u> and et al."
 collection: publications
 permalink: /3dor15shrec
 excerpt: 
