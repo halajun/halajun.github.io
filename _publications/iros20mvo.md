@@ -4,7 +4,7 @@ author: "<b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /iros20mvo
 excerpt: 
-date: 2020-10-25
+date: 2020-07-11
 venue: The IEEE/RSJ International Conference on Intelligent Robots and Systems
 paperurl: https://arxiv.org/pdf/2007.13993.pdf
 citation: 

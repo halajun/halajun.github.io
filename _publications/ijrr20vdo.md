@@ -4,7 +4,7 @@ author: "<b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /ijrr20vdo
 excerpt: 
-date: 2020-11-01
+date: 2020-10-25
 venue: The International Journal of Robotics Research (under review)
 paperurl: https://arxiv.org/abs/2005.11052
 citation: 
