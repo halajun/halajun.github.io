@@ -4,7 +4,7 @@ author: "Zouhui Lian, <b>Jun Zhang</b> and et al."
 collection: publications
 permalink: /3dor15shrec
 excerpt: 
-date: 2015-05-01
+date: 2015-10-01
 venue: Eurographics Workshop on 3D Object Retrieval
 paperurl: http://dx.doi.org/10.2312/3dor.20151064
 citation: 
