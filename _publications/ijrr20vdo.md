@@ -36,4 +36,4 @@ An open-source version of the source code is available.
 
 
 <b>Reference:</b>
-* J. Zhang\*, M. Henein\*, R. Mahony and V. Ila, "Robust Ego and Object 6-DoF Motion Estimation and Tracking," arXiv:2005.11052, 2020.
+* J. Zhang\*, M. Henein\*, R. Mahony and V. Ila, "VDO-SLAM: A Visual Dynamic Object-aware SLAM System," arXiv:2005.11052, 2020.
