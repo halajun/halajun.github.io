@@ -4,7 +4,7 @@ author: "<b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /ijrr20vdo
 excerpt: 
-date: 2020-11-01
+date: 2020-10-31
 venue: The International Journal of Robotics Research (under review)
 paperurl: https://arxiv.org/abs/2005.11052
 citation: 
@@ -36,4 +36,4 @@ An open-source version of the source code is available.
 
 
 <b>Reference:</b>
-* J. Zhang\*, M. Henein\*, R. Mahony and V. Ila, "VDO-SLAM: A Visual Dynamic Object-aware SLAM System," arXiv:2005.11052, 2020.
+* J. Zhang, M. Henein, R. Mahony and V. Ila, "VDO-SLAM: A Visual Dynamic Object-aware SLAM System," arXiv:2005.11052, 2020.
