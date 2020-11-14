@@ -10,7 +10,7 @@ paperurl: https://www.researchgate.net/publication/336778939_Multi-frame_Motion_
 citation: 
 youtubeId: 
 header:
-   teaser: acra18ms_tn.png
+   teaser: acra18ms_tn.jpg
 ---
 
 <a href="http://halajun.github.io/files/ocean18zhang.pdf" target="_blank"><b>[PDF]</b></a>&emsp;
