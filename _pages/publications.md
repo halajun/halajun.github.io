@@ -10,3 +10,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include publication.html %}
 {% endfor %}
+
+[\* denotes equal contribution]&emsp;
