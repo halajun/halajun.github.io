@@ -1,10 +1,10 @@
 ---
 title: "VDO-SLAM: A Visual Dynamic Object-aware SLAM System"
-author: "<b>Jun Zhang\*</b>, Mina Henein\*, Robert Mahony and Viorela Ila."
+author: "<b>Jun Zhang</b>, Mina Henein, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /ijrr20vdo
 excerpt: 
-date: 2020-10-31
+date: 2020-11-01
 venue: The International Journal of Robotics Research (under review)
 paperurl: https://arxiv.org/abs/2005.11052
 citation: 
@@ -21,18 +21,7 @@ header:
 ![firenet_banner](/images/banners/ijrr20vdo.png){:class="img-responsive"}
 
 <b>Abstract.</b> 
-The scene rigidity assumption, also known as the static world assumption, is common in SLAM algorithms. Most
-existing algorithms operating in complex dynamic environments simplify the problem by removing moving objects from
-consideration or tracking them separately. Such strong assumptions limit the deployment of autonomous mobile robotic
-systems in a wide range of important real world applications involving highly dynamic and unstructured environments.
-This paper presents VDO-SLAM, a robust object-aware dynamic SLAM system that exploits semantic information to
-enable motion estimation of rigid objects in the scene without any prior knowledge of the objects shape or motion
-models. The proposed approach integrates dynamic and static structures in the environment into a unified estimation
-framework resulting in accurate robot pose and spatio-temporal map estimation. We provide a way to extract velocity
-estimates from object pose change of moving objects in the scene providing an important functionality for navigation
-in complex dynamic environments. We demonstrate the performance of the proposed system on a number of real
-indoor and outdoor datasets. Results show consistent and substantial improvements over state-of-the-art algorithms.
-An open-source version of the source code is available.
+The scene rigidity assumption, also known as the static world assumption, is common in SLAM algorithms. Most existing algorithms operating in complex dynamic environments simplify the problem by removing moving objects from consideration or tracking them separately. Such strong assumptions limit the deployment of autonomous mobile robotic systems in a wide range of important real world applications involving highly dynamic and unstructured environments. This paper presents VDO-SLAM, a robust object-aware dynamic SLAM system that exploits semantic information to enable motion estimation of rigid objects in the scene without any prior knowledge of the objects shape or motion models. The proposed approach integrates dynamic and static structures in the environment into a unified estimation framework resulting in accurate robot pose and spatio-temporal map estimation. We provide a way to extract velocity estimates from object pose change of moving objects in the scene providing an important functionality for navigation in complex dynamic environments. We demonstrate the performance of the proposed system on a number of real indoor and outdoor datasets. Results show consistent and substantial improvements over state-of-the-art algorithms. An open-source version of the source code is available.
 
 
 <b>Reference:</b>
