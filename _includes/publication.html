@@ -12,10 +12,13 @@
   {% assign title = post.title %}
 {% endif %}
 
+<!-- margin-right 15pix;
+ -->
+
 <div class="publications">
   <a href="{{ base_path }}{{ post.url }}">
     <img class="publication-thumbnail"
-         style="float: left; margin-right 15pix;"
+         style="float: left;"
          src=
         {% if teaser contains "://" %}
           "{{ teaser }}"
