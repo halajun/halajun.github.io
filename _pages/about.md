@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://halajun.github.io/images/bg.JPG?raw=false" alt="Photo" style="width: 5131px;"/> 
-</p>
-
 # About Me
 
 * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
 * I received my B.Eng. and M.Sc.Eng. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
-* My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc.
+* My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc. Please check my research page for more details.
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
 
 # Recent News
@@ -25,8 +21,13 @@ redirect_from:
 * We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
 * I have one paper accepted in IROS 2020! (01 July 2020)
 * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
+* Our new work VDO-SLAM is released in public now! Please check the available resources (Code/Paper/Video) [HERE](https://github.com/halajun/VDO_SLAM). (30 May 2020)
 
-# Publications
+<p align="center">
+  <img src="https://halajun.github.io/images/bg.JPG?raw=false" alt="Photo" style="width: 5131px;"/> 
+</p>
+
+<!-- # Publications
 
 * <b>Equivariant Visual Odometry in the Wild</b> <br> 
 Robert Mahony, Pieter van Goor, Mina Henein, Ryan Pike, <b>Jun Zhang</b> and Yonhon Ng. 
@@ -86,7 +87,7 @@ Honors & Awards
 * Award of the Third Prize of the Mathematical Contest in Modelling, NWPU, 2009
 
 # Academic Services
-* Reviewer for robotics academic conferences and journals: IROS, ICRA, TASE.
+* Reviewer for robotics academic conferences and journals: IROS, ICRA, TASE. -->
 
 <!-- # Colorful Life
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things. -->
