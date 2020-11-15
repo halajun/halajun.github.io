@@ -1,6 +1,6 @@
 ---
 title: "VDO-SLAM: A Visual Dynamic Object-aware SLAM System"
-author: "<b>Jun Zhang</b>[co], Mina Henein[co], Robert Mahony and Viorela Ila."
+author: "<b>Jun Zhang</b>\\*, Mina Henein[co]\\*, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /ijrr20vdo
 excerpt: 
@@ -25,4 +25,4 @@ The scene rigidity assumption, also known as the static world assumption, is com
 
 
 <b>Reference:</b>
-* J. Zhang, M. Henein, R. Mahony and V. Ila, "VDO-SLAM: A Visual Dynamic Object-aware SLAM System," arXiv:2005.11052, 2020.
+* J. Zhang\*, M. Henein\*, R. Mahony and V. Ila, "VDO-SLAM: A Visual Dynamic Object-aware SLAM System," arXiv:2005.11052, 2020.
