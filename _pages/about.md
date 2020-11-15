@@ -23,9 +23,9 @@ redirect_from:
 * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
 * Our new work VDO-SLAM is released in public now! Please check the available resources (Code/Paper/Video) [HERE](https://github.com/halajun/VDO_SLAM). (30 May 2020)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://halajun.github.io/images/bg.JPG?raw=false" alt="Photo" style="width: 5131px;"/> 
-</p>
+</p> -->
 
 <!-- # Publications
 
