@@ -11,4 +11,4 @@ author_profile: true
   {% include publication.html %}
 {% endfor %}
 
-([co] denotes equal contribution)&emsp;
+(\* denotes equal contribution)&emsp;
