@@ -1,6 +1,6 @@
 ---
 title: "VDO-SLAM: A Visual Dynamic Object-aware SLAM System"
-author: "<b>Jun Zhang</b>\\*, Mina Henein[co]\\*, Robert Mahony and Viorela Ila."
+author: "<b>Jun Zhang</b>\\*, Mina Henein\\*, Robert Mahony and Viorela Ila."
 collection: publications
 permalink: /ijrr20vdo
 excerpt: 
