@@ -13,8 +13,8 @@ header:
    teaser: acra18ms_tn.jpg
 ---
 
-<a href="http://halajun.github.io/files/ocean18zhang.pdf" target="_blank"><b>[PDF]</b></a>&emsp;
-<a href="https://halajun.github.io/files/zhang18oceans.txt" target="_blank"><b>[BibTex]</b></a>
+<a href="http://halajun.github.io/files/acra18zhang.pdf" target="_blank"><b>[PDF]</b></a>&emsp;
+<a href="https://halajun.github.io/files/zhang18acra.txt" target="_blank"><b>[BibTex]</b></a>
 
 ![firenet_banner](/images/banners/acra18ms.png){:class="img-responsive"}
 
