@@ -20,7 +20,7 @@ redirect_from:
 
 * We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
 * We have one paper accepted in IROS 2020! (01 July 2020)
-* <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020)
+<!-- * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020) -->
 * Our new work VDO-SLAM is released in public now! Please check the available resources (Code/Paper/Video) [HERE](https://github.com/halajun/VDO_SLAM). (30 May 2020)
 * We have one paper accepted in ICRA 2020! (27 Jan 2020)
 
