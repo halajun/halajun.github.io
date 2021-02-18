@@ -5,7 +5,7 @@ collection: publications
 permalink: /ijrr20vdo
 excerpt: 
 date: 2020-10-25
-venue: The International Journal of Robotics Research (under review)
+venue: The International Journal of Robotics Research (submitted)
 paperurl: https://arxiv.org/abs/2005.11052
 citation: 
 youtubeId: 
