@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://halajun.github.io/files/junzhang_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://halajun.github.io/files/junzhang_cv_pub.pdf)
 
 <!-- <embed src="http://halajun.github.io/files/junzhang_cv.pdf" width="650" height="1800" type='application/pdf'> -->
