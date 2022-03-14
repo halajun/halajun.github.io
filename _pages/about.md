@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-* I am a post-doc researcher at the division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439), KTH Royal Institute of Technology and [Swedish Maritime Robotics Centre (SMaRC)](https://smarc.se/), closely working with Prof. [John Folkesson](https://www.csc.kth.se/~johnf/)'s group. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
+* I am a post-doc researcher at the division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439), KTH Royal Institute of Technology, and [Swedish Maritime Robotics Centre (SMaRC)](https://smarc.se/), closely working with Prof. [John Folkesson](https://www.csc.kth.se/~johnf/)'s group. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
 
-* My research interests lie in the area of robotics and vision, particularly in visual odometry/SLAM (simultaneous localization and mapping), structure from motion and 3D vision, etc. At RPL & SMaRC, I work on AUV underwater SLAM using side-scan sonar (SSS) and/or multibeam echo sounders (MBES), exploring potential possibility of new perception methods via SSS (front-end), and optimization solutions (back-end).
+* My research interests lie in the area of robotics and vision, particularly in visual odometry/SLAM (simultaneous localization and mapping), structure from motion and 3D vision, etc. At RPL&SMaRC, I mainly work on AUV underwater SLAM using side-scan sonar (SSS) and/or multibeam echo sounders (MBES), exploring potential possibility of new perception methods via SSS (front-end), and optimization solutions (back-end).
 
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
 

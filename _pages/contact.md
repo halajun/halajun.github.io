@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Brian Anderson Building, Australian National University<br>
-115 North Road, Acton<br>
+KTH Royal Institute of Technology<br>
+TEKNIKRINGEN 14 PLAN 6, 114 28 Stockholm<br>
+
 Email: steed[dot]jun[dot]zhang[at]gmail[dot]com
 
