@@ -10,19 +10,25 @@ redirect_from:
 
 # About Me
 
-* I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
+* I am a post-doc researcher at the division of [Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439), KTH Royal Institute of Technology and [Swedish Maritime Robotics Centre (SMaRC)](https://smarc.se/), closely working with Prof. [John Folkesson](https://www.csc.kth.se/~johnf/)'s group. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
+
+* My research interests lie in the area of robotics and vision, particularly in visual odometry/SLAM (simultaneous localization and mapping), structure from motion and 3D vision, etc. At RPL & SMaRC, I work on AUV underwater SLAM using side-scan sonar (SSS) and/or multibeam echo sounders (MBES), exploring potential possibility of new perception methods via SSS (front-end), and optimization solutions (back-end).
+
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
+
+<!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
 * I received my B.Eng. and M.Sc.Eng. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
 * My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc. Please check my [Research Page](https://halajun.github.io/publications/) for more details.
-* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
+* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-) -->
 
 # Recent News
 
-* We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
-* We have one paper accepted in IROS 2020! (01 July 2020)
+<!-- * We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
+* We have one paper accepted in IROS 2020! (01 July 2020) -->
 <!-- * <span style="color:red">My PhD program is coming to the end soon and I am now looking for Post-doctoral position and job opportunities. Please feel free to contact me if you are interested in recruiting me.</span> (July 2020) -->
-* Our new work VDO-SLAM is released in public now! Please check the available resources (Code/Paper/Video) [HERE](https://github.com/halajun/VDO_SLAM). (30 May 2020)
-* We have one paper accepted in ICRA 2020! (27 Jan 2020)
+<!-- * Our new work VDO-SLAM is released in public now! Please check the available resources (Code/Paper/Video) [HERE](https://github.com/halajun/VDO_SLAM). (30 May 2020)
+* We have one paper accepted in ICRA 2020! (27 Jan 2020) -->
 
 <!-- <p align="center">
   <img src="https://halajun.github.io/images/bg.JPG?raw=false" alt="Photo" style="width: 5131px;"/> 
