@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-* I am a post-doc researcher at the [Institute of Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home)(ICG), Technische Universität Graz, closely working with Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
+* I am a post-doc researcher at the [Institute of Computer Graphics and Vision](https://www.tugraz.at/institute/icg/home) (ICG), Technische Universität Graz, closely working with Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
 
 * My research interests lie in the area of robotics and vision, particularly in visual odometry/SLAM (simultaneous localization and mapping), structure from motion and 3D vision, etc. At ICG, I mainly work on projects regarding aerial navigation and scene reconstruction using event camera, and also indoor visual tracking and 3D mapping using cameras.
 
