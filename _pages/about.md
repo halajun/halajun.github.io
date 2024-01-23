@@ -14,7 +14,7 @@ redirect_from:
 
 * My research interests lie in the area of robotics and vision, particularly in visual odometry/SLAM (simultaneous localization and mapping), structure from motion and 3D vision, etc. At ICGV, I mainly work on projects regarding aerial navigation and scene reconstruction using event camera, and also indoor visual tracking and 3D mapping using traditional cameras.
 
-* When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-)
+* When I’m not doing research I enjoy a variety of hobbies, such as soccer, photography and playing with my kid. I am also interested in trying new things :-)
 
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
