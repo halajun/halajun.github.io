@@ -23,9 +23,9 @@ redirect_from:
 
 # Recent News
 
-* Great to see our paper "Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration" has been accepted to ICRA 2024. (29 Jan 2024) <a href="https://arxiv.org/abs/2405.06279" target="_blank"><b>[PDF]</b></a>&emsp; <a href="https://github.com/luxiya01/mbes-registration-data" target="_blank"><b>[Code]</b></a>&emsp; <a href="https://luxiya01.github.io/mbes-registration-project-page/" target="_blank"><b>[Project Page]</b></a>
+* (29 Jan 2024) Our paper "[Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration](https://arxiv.org/abs/2405.06279)" has been accepted to ICRA 2024. Check the links for more details: <a href="https://arxiv.org/abs/2405.06279" target="_blank"><b>[PDF]</b></a>&emsp; <a href="https://github.com/luxiya01/mbes-registration-data" target="_blank"><b>[Code]</b></a>&emsp; <a href="https://luxiya01.github.io/mbes-registration-project-page/" target="_blank"><b>[Project Page]</b></a>
 
-* I recently relocate from Stockholm to Graz, Austria. (13 Dec 2023)
+* (13 Dec 2023) I recently relocate from Stockholm to Graz, Austria.
 
 <!-- * We have one tutorial paper accepted in CDC 2020! (10 Sep 2020)
 * We have one paper accepted in IROS 2020! (01 July 2020) -->
