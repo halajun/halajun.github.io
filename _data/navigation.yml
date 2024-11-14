@@ -4,8 +4,8 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Research"
-    url: /publications/
+  # - title: "Research"
+  #   url: /publications/
 
   # - title: "CV/Bio"
   #   url: /files/junzhang_cv.pdf
