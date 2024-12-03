@@ -18,7 +18,7 @@ redirect_from:
 * My research interests lie in the area of robotic vision, particularly in visual odometry/SLAM, structure from motion, 3D vision, and motion field, etc. Please check my [Research Page](https://halajun.github.io/publications/) for more details.
 * When I’m not doing research I enjoy a variety of hobbies, especially playing soccer and photography. I am also interested in trying new things :-) -->
 
-# Recent News
+# Updates
 
 * (12 Nov 2024) 🎊 Our paper "[A Dense Subframe-based SLAM Framework with Side-scan Sonar](https://arxiv.org/abs/2312.13802)" has been accepted to IEEE Journal of Ocean Engineering (JOE). 
 <!-- Links: <a href="https://arxiv.org/abs/2312.13802" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/halajun/acoustic_slam" target="_blank"><b>[Code]</b></a> -->
