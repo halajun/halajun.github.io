@@ -9,7 +9,7 @@ redirect_from:
 
 # Short Bio
 
-* I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras on UAVs/UGVs, multi-beam/side-scan sonars on AUVs, etc.
+* I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc.
 
 
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
