@@ -9,11 +9,11 @@ redirect_from:
 
 # About Me
 
-* I am a senior researcher at the Institute of Computer Graphics and Vision ([ICG](https://www.tugraz.at/institute/icg/home)), Technische Universität Graz (TU Graz), working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by the division of Robotics, Perception and Learning ([RPL](https://www.kth.se/is/rpl)), at KTH Royal Institute of Technology. I obtained my Ph.D. degree from the Australian National University (ANU), M.Sc.Eng. and B.Eng. degrees from Northwestern Polytechnical University (NPU).
+* I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree of Engineering from the Australian National University (ANU).
 
-* My research interests lie in the area of robotics and vision, particularly in Visual Odometry/SLAM (Simultaneous Localization And Mapping), Structure from Motion (SfM) and 3D vision. I also have experiences in Autonomous Underwater Vehicle (AUV) localization and bathymetry mapping, using optical (camera) and acoustic (multi-beam, side-scan sonar) sensors.  At ICG, I primarily focus on projects regarding aerial navigation and scene reconstruction using event cameras, as well as indoor visual tracking and 3D mapping using standard cameras.
+* My research interests lie in the area of robotics and vision, particularly in visual SLAM (Simultaneous Localization And Mapping), visual pose tracking and 3D reconstruction, with standard and event cameras. I also have experiences in Autonomous Underwater Vehicle (AUV) localization and bathymetry mapping with acoustic (multi-beam, side-scan sonar) sensors.
 
-* When I’m not doing research I enjoy a variety of hobbies, such as soccer, photography and playing with my kid. I am also interested in trying new things :-)
+* When I’m not doing research I like to spend my time in soccer, photography and playing with my kid. I am also interested in trying new things :-)
 
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
