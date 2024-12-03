@@ -9,9 +9,7 @@ redirect_from:
 
 # About Me
 
-* I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree of Engineering from the Australian National University (ANU).
-
-* My research interests lie in the area of robotics and vision, particularly in visual SLAM (Simultaneous Localization And Mapping), visual pose tracking and 3D reconstruction, with standard and event cameras. I also have experiences in Autonomous Underwater Vehicle (AUV) localization and bathymetry mapping with acoustic (multi-beam, side-scan sonar) sensors.
+* I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree of Engineering (Robotics and Vision) from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras on UAVs, multi-beam/side-scan sonars on AUVs, etc.
 
 * When I’m not doing research I like to spend my time in soccer, photography and playing with my kid. I am also interested in trying new things :-)
 
