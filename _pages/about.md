@@ -29,8 +29,8 @@ Links: <a href="https://github.com/halajun/acoustic_slam" target="_blank"><b>[Co
 
 # Teaching Duty
 
-* [Robot Vision (710088)](https://www.tugraz.at/institute/icg/teaching/coursepages/710088-robotvision) on Visual Odometry and SLAM.
-* [Camera Drone (710099)](https://www.tugraz.at/institute/icg/teaching/coursepages/710099-cameradrones) on ROS Practical.
+* [Robot Vision (710088) SS](https://www.tugraz.at/institute/icg/teaching/coursepages/710088-robotvision) on Visual Odometry and SLAM.
+* [Camera Drones (710099) WS](https://www.tugraz.at/institute/icg/teaching/coursepages/710099-cameradrones) on ROS Practical.
 
 <!-- * (13 Dec 2023) I recently relocate from Stockholm to Graz, Austria. -->
 
