@@ -11,7 +11,6 @@ redirect_from:
 
 * I am a senior research staff at [ICG](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc.
 
-
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
 * I received my B.Eng. and M.Sc.Eng. Degrees in [Northwestern Polytechnical University](https://en.nwpu.edu.cn/). My postgraduate research advisors are Prof. [Zhenbao Liu](http://www.liuzhenbao.com/) and Prof. [Shuhui Bu](http://www.adv-ci.com/blog/about-me/). During my master's period, I spent one and half years in the [Institute of Computer Science and Technology](http://www.icst.pku.edu.cn/english/home/index.htm), [Peking University](http://english.pku.edu.cn/) as a visiting researcher, supervised by Prof. [Zouhui Lian](http://www.icst.pku.edu.cn/zlian/).
@@ -21,7 +20,7 @@ redirect_from:
 # Updates
 
 * (27 Jan 2025) \[Paper\] 🎉 Our paper "[EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration](https://www.arxiv.org/abs/2503.00167)" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025. Links: <a href="https://www.arxiv.org/abs/2503.00167" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/EasonChen99/EVLoc" target="_blank"><b>[Code]</b></a>
-
+---
 * (12 Nov 2024) \[Paper\] 🎊 Our paper "[A Dense Subframe-based SLAM Framework with Side-scan Sonar](https://arxiv.org/abs/2312.13802)" has been accepted to IEEE Journal of Ocean Engineering (JOE). 
 Links: <a href="https://arxiv.org/abs/2312.13802" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/halajun/acoustic_slam" target="_blank"><b>[Code]</b></a>
 * (29 Oct 2024) \[Paper\] 🎉 Our paper "[Neural Graph Mapping for Dense SLAM with Efficient Loop Closure Integration](https://arxiv.org/abs/2405.03633)" has been accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. Links: <a href="https://arxiv.org/abs/2405.03633" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/KTH-RPL/neural_graph_mapping" target="_blank"><b>[Code]</b></a> <a href="https://kth-rpl.github.io/neural_graph_mapping/" target="_blank"><b>[Project Page]</b></a>
