@@ -20,7 +20,9 @@ redirect_from:
 # Updates
 
 * (27 Jan 2025) \[Paper\] 🎉 Our paper "[EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration](https://www.arxiv.org/abs/2503.00167)" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025. Links: <a href="https://www.arxiv.org/abs/2503.00167" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/EasonChen99/EVLoc" target="_blank"><b>[Code]</b></a>
+
 ---
+
 * (12 Nov 2024) \[Paper\] 🎊 Our paper "[A Dense Subframe-based SLAM Framework with Side-scan Sonar](https://arxiv.org/abs/2312.13802)" has been accepted to IEEE Journal of Ocean Engineering (JOE). 
 Links: <a href="https://arxiv.org/abs/2312.13802" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/halajun/acoustic_slam" target="_blank"><b>[Code]</b></a>
 * (29 Oct 2024) \[Paper\] 🎉 Our paper "[Neural Graph Mapping for Dense SLAM with Efficient Loop Closure Integration](https://arxiv.org/abs/2405.03633)" has been accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. Links: <a href="https://arxiv.org/abs/2405.03633" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/KTH-RPL/neural_graph_mapping" target="_blank"><b>[Code]</b></a> <a href="https://kth-rpl.github.io/neural_graph_mapping/" target="_blank"><b>[Project Page]</b></a>
