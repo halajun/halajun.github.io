@@ -19,7 +19,7 @@ redirect_from:
 
 # Updates
 
-* (03 Apr 2025) \[Misc\] 🎙️ I feel honourable to be invited as a guest speaker in the 59th [Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de) (PhoWo '25) in Stuttgart, to give a presentation on the topic of Visual SLAM and Neural Radiance Fields.
+* (03 Apr 2025) \[Misc\] 🎙️ I feel honourable to be invited as a guest speaker in the [59th Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de) (PhoWo '25) in Stuttgart, to give a presentation on the topic of Visual SLAM and Neural Radiance Fields.
 * (25 Mar 2025) \[Paper\] 🔔 Our paper "[ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo](https://arxiv.org/abs/2503.21525)" has been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2025. Links: <a href="https://arxiv.org/pdf/2503.21525" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/ICG-MVSNet" target="_blank"><b>[Code]</b></a>
 * (27 Jan 2025) \[Paper\] 🔔 Our paper "[EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration](https://www.arxiv.org/abs/2503.00167)" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025. Links: <a href="https://www.arxiv.org/pdf/2503.00167" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/EasonChen99/EVLoc" target="_blank"><b>[Code]</b></a>
 
