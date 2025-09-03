@@ -81,9 +81,10 @@ author:
   avatar           : "junzhang.JPG"
   bio              : "Researcher, IVC, TU Graz"
   location         : "Graz, Austria"
-  employer         : 
+  employer         : "https://ivc.tugraz.at/people/jun-zhang/"
   googlescholar    : "https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en"
   email            : 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -108,7 +109,6 @@ author:
   xing             :
   youtube          : 
   wikipedia        : 
-  uri              : "https://ivc.tugraz.at/people/jun-zhang/"
 
 
 # Reading Files
