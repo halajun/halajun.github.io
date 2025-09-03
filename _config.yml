@@ -84,7 +84,7 @@ author:
   employer         : 
   googlescholar    : "https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en"
   email            : 
-  uri              : "https://ivc.tugraz.at/people/jun-zhang/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,6 +109,7 @@ author:
   xing             :
   youtube          : 
   wikipedia        : 
+  ivc_webpage      : "https://ivc.tugraz.at/people/jun-zhang/"
 
 
 # Reading Files
