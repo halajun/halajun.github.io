@@ -9,7 +9,7 @@ redirect_from:
 
 # Short Bio
 
-* I am a senior research staff at [IVC](https://www.tugraz.at/institute/icg/home), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH, Sweden. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc. Detailed bio: [📝](http://halajun.github.io/files/Jun Zhang-Curriculum Vitae.pdf).
+* I am a senior research staff at [IVC](https://ivc.tugraz.at), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH, Sweden. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc. Detailed bio: [CV](http://halajun.github.io/files/Jun Zhang-Curriculum Vitae.pdf).
 
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
@@ -19,6 +19,7 @@ redirect_from:
 
 # Updates
 
+* (02 Sep 2025) \[<em>Misc</em>\] 📝 I start to serve as associate editor for IEEE Robotics and Automation Letters ([RA-L](https://www.ieee-ras.org/publications/ra-l)).
 * (25 Jul 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[C^3-GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting](https://arxiv.org/abs/2508.20754)" has been accepted to The 36th British Machine Vision Conference (BMVC) 2025. Links: <a href="https://arxiv.org/pdf/2508.20754" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/C3-GS" target="_blank"><b>[Code]</b></a>
 * (03 Apr 2025) \[<em>Misc</em>\] 🎙️ I feel honourable to be invited as a guest speaker in the [59th Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de) (PhoWo '25) in Stuttgart, to give a presentation on the topic of Visual SLAM and Neural Radiance Fields.
 * (25 Mar 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo](https://arxiv.org/abs/2503.21525)" has been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2025. Links: <a href="https://arxiv.org/pdf/2503.21525" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/ICG-MVSNet" target="_blank"><b>[Code]</b></a>
