@@ -9,7 +9,7 @@ redirect_from:
 
 # Short Bio
 
-* I am a senior research staff at [IVC](https://ivc.tugraz.at), TU Graz, working in Prof. [Friedrich Fraundorfer](https://www.tugraz.at/institute/icg/research/team-fraundorfer/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH, Sweden. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc. Detailed bio: [CV](http://halajun.github.io/files/Jun Zhang-Curriculum Vitae.pdf).
+* I am a senior research staff at [IVC](https://ivc.tugraz.at), TU Graz, working in Prof. [Friedrich Fraundorfer](https://ivc.tugraz.at/people/friedrich-fraundorfer/)'s group. Prior to this, I was a post-doc researcher hosted by [RPL](https://www.kth.se/is/rpl), KTH, Sweden. I obtained my Ph.D. degree in Robotics and Vision, from the Australian National University (ANU). My research interests includes robot perception, visual SLAM and 3D vision, using standard/event cameras for UAVs/UGVs, multi-beam/side-scan sonars for AUVs, etc. Detailed bio: [CV](http://halajun.github.io/files/Jun Zhang-Curriculum Vitae.pdf).
 
 <!-- * I am a Ph.D. candidate of the [College of Engineering and Computer Science](https://cecs.anu.edu.au/) at [Australian National University](https://www.anu.edu.au/), advised by Dr. [Viorela Ila](http://viorelaila.net/) and Prof. [Robert Mahony](https://users.cecs.anu.edu.au/~Robert.Mahony/). <br> 
 [[My Curriculum Vitae](http://halajun.github.io/files/junzhang_cv.pdf)] [[My Google Scholar](https://scholar.google.com.au/citations?user=DSKW47kAAAAJ&hl=en)]
