@@ -37,7 +37,7 @@ Links: <a href="https://arxiv.org/pdf/2312.13802" target="_blank"><b>[PDF]</b></
 # Teaching Duty
 
 * [Robot Vision (710088 SS)](https://www.tugraz.at/institute/icg/teaching/coursepages/710088-robotvision) on Visual Odometry and SLAM.
-* [Camera Drones (710099 WS)](https://www.tugraz.at/institute/icg/teaching/coursepages/710099-cameradrones) on ROS Practical.
+* [Camera Drones (710099 WS)](https://www.tugraz.at/institute/icg/teaching/coursepages/710099-cameradrones) on Motion Planning and ROS Practical.
 
 <!-- * (13 Dec 2023) I recently relocate from Stockholm to Graz, Austria. -->
 
