@@ -19,8 +19,14 @@ redirect_from:
 
 # Updates
 
+* (01 Feb 2026) \[<em>Misc</em>\] 📝 We are organizing a workshop at [AIRoV 2026](https://airov.at/2026/) (13-15 April, Leoben), on the topic of “[Semantic Scene Representations for Robot Interaction](https://airov.at/2026/workshop/semreprob)”. If you find the scope of the workshop is highly relevant to your research fields, we would like to encourage you to submit (DDL: 28 Feb) and present your recent work (either published or fresh new) at our workshop. Links: <a href="https://airov.at/2026/workshop/semreprob" target="_blank"><b>[Workshop Details]</b></a> <a href="https://airov.at/2026/call-for-papers/" target="_blank"><b>[Call4Papers]</b></a> 
+
+* (31 Jan 2026) \[<em>Paper</em>\] 🔔 Our manuscript "[LEAR: Learning Edge-Aware Representations for Event-to-LiDAR Localization]()" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026. Links: TBA.
+
+---
+
 * (02 Sep 2025) \[<em>Misc</em>\] 📝 I start to serve as Associate Editor (AE) for IEEE Robotics and Automation Letters ([RA-L](https://www.ieee-ras.org/publications/ra-l)).
-* (25 Jul 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[C^3-GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting](https://arxiv.org/abs/2508.20754)" has been accepted to The 36th British Machine Vision Conference (BMVC) 2025. Links: <a href="https://arxiv.org/pdf/2508.20754" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/C3-GS" target="_blank"><b>[Code]</b></a>
+* (25 Jul 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[C^3-GS: Learning Context-aware, Cross-dimension, Cross-scale Feature for Generalizable Gaussian Splatting](https://arxiv.org/abs/2508.20754)" has been accepted to the 36th British Machine Vision Conference (BMVC) 2025. Links: <a href="https://arxiv.org/pdf/2508.20754" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/C3-GS" target="_blank"><b>[Code]</b></a>
 * (03 Apr 2025) \[<em>Misc</em>\] 🎙️ I feel honourable to be invited as a guest speaker in the [59th Photogrammetric Week](https://phowo.ifp.uni-stuttgart.de) (PhoWo '25) in Stuttgart, to give a presentation on the topic of Visual SLAM and Neural Radiance Fields.
 * (25 Mar 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[ICG-MVSNet: Learning Intra-view and Cross-view Relationships for Guidance in Multi-View Stereo](https://arxiv.org/abs/2503.21525)" has been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2025. Links: <a href="https://arxiv.org/pdf/2503.21525" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/YuhsiHu/ICG-MVSNet" target="_blank"><b>[Code]</b></a>
 * (27 Jan 2025) \[<em>Paper</em>\] 🔔 Our manuscript "[EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration](https://www.arxiv.org/abs/2503.00167)" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2025. Links: <a href="https://www.arxiv.org/pdf/2503.00167" target="_blank"><b>[PDF]</b></a> <a href="https://github.com/EasonChen99/EVLoc" target="_blank"><b>[Code]</b></a>
