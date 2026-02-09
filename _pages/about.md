@@ -19,7 +19,7 @@ redirect_from:
 
 # Updates
 
-* (01 Feb 2026) \[<em>Misc</em>\] 📝 We are organizing a workshop at [AIRoV 2026](https://airov.at/2026/) (13-15 April, Leoben), on the topic of “[Semantic Scene Representations for Robot Interaction](https://airov.at/2026/workshop/semreprob)”. If you find the scope of the workshop is highly relevant to your research fields, we would like to encourage you to submit and present your recent work (either published or fresh new) at our workshop ([Track Link](https://airov.at/2026/workshop/semreprob)). Submission Deadline: 28 Feb, 2026. 
+* (01 Feb 2026) \[<em>Misc</em>\] 📝 We are organizing a workshop at [AIRoV 2026](https://airov.at/2026/) (13-15 April, Leoben), on the topic of “[Semantic Scene Representations for Robot Interaction](https://airov.at/2026/workshop/semreprob)”. If you find the scope of the workshop is highly relevant to your research fields, we would like to encourage you to submit and present your recent work (either published or fresh new) at our workshop ([Link](https://airov.at/2026/workshop/semreprob)). Submission Deadline: 28 Feb, 2026. 
 
 * (31 Jan 2026) \[<em>Paper</em>\] 🔔 Our manuscript "[LEAR: Learning Edge-Aware Representations for Event-to-LiDAR Localization]()" has been accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026. Links: TBA.
 
