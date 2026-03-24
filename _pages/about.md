@@ -19,7 +19,7 @@ redirect_from:
 
 # Updates
 
-* (01 Feb 2026) \[<em>Misc</em>\] 📝 We are organizing a workshop at [AIRoV 2026](https://airov.at/2026/) (13-15 April, Leoben), on the topic of “[Semantic Scene Representations](https://airov.at/2026/workshop/semreprob)”. If you are interested in our topics or anything relevant, please feel free to reach out to us during the conference.
+* (24 Mar 2026) \[<em>Misc</em>\] 📝 We are organizing a workshop at [AIRoV 2026](https://airov.at/2026/) (13-15 April, Leoben), on the topic of “[Semantic Scene Representations](https://airov.at/2026/workshop/semreprob)”. If you are interested in our topics or anything relevant, please feel free to reach out to us during the conference.
 <!-- find the scope of the workshop is highly relevant to your research fields, we would like to encourage you to submit and present your recent work (either published or fresh new) at our workshop ([Link](https://airov.at/2026/workshop/semreprob)). Submission Deadline: <b>14 Mar, 2026</b>. 
  -->
 
